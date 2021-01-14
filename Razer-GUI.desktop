@@ -1,0 +1,5 @@
+#!/usr/bin/sh
+[Desktop Entry]
+Type = Application
+Exec = /opt/razer-gui/razer-gui
+Name = Razer-GUI
