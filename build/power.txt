@@ -1,2 +1,0 @@
-RES: GetPwrLevel { pwr: 0 }
-Current power setting: Balanced
